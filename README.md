@@ -14,16 +14,18 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera), an aspiring Full-Stack Web Developer who enjoys turning ideas into clean, functional, and engaging digital experiences.**
-🔹 Frontend: React.js · Next.js · TypeScript
-🔹 Backend: Node.js · Express.js · MongoDB · Mongoose
-🔹 Currently Learning: React Native
-🔹 Passionate About: Full-Stack Development · Problem Solving · Continuous Learning
-🔹 Collaboration: Open to exciting projects and opportunities to grow
-- 📝 I regularly write articles on [**LinkedIn**](https://www.linkedin.com/in/yeshrat-zerin-yera-54b557258)
-- 📫 Email: **yeshratzerinyera@gmail.com**
+I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring **Full-Stack Web Developer** who enjoys turning ideas into clean, functional, and engaging digital experiences.
+
+🔹 **Frontend:** React.js · Next.js · TypeScript  
+🔹 **Backend:** Node.js · Express.js · MongoDB · Mongoose  
+🔹 **Currently Learning:** React Native  
+🔹 **Passionate About:** Full-Stack Development · Problem Solving · Continuous Learning  
+🔹 **Collaboration:** Open to exciting projects and opportunities to grow  
+
+📫 **Email:** [yeshratzerinyera@gmail.com](mailto:yeshratzerinyera@gmail.com)  
+💼 **LinkedIn:** [Yeshrat Zerin Yera](https://www.linkedin.com/in/yeshrat-zerin-yera-54b557258)
 <!-- - 🌐 Explore my [**Portfolio**](https://touhidcodes.vercel.app/) -->
 <!-- - 📄 Check out my [**Resume**](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO) -->
 
