@@ -31,49 +31,17 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 
 ---
-# 🌐 FOLLOW ME ON SOCIALS
-
-<p align="left">
-
-<a href="https://linkedin.com/in/touhidur-zaman" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="55" height="55" style="border-radius:50%;" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://discord.gg/touhidcodes" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="55" height="55" style="border-radius:50%;" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://dev.to/touhidcodes" target="_blank">
-  <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" width="55" height="55" style="border-radius:50%;" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://stackoverflow.com/users/22104988" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="55" height="55" style="border-radius:50%;" />
-</a>
-
-</p>
 
 # 🌐 FOLLOW ME ON SOCIALS
 
 <p align="left">
 
-<a href="https://linkedin.com/in/touhidur-zaman" target="_blank">
+<a href="https://www.linkedin.com/in/yeshrat-zerin-yera-54b557258" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-
-<a href="https://discord.gg/touhidcodes" target="_blank">
+&nbsp;
+<a href="https://discord.com/users/1011141058056437770" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-</a>
-
-<a href="https://dev.to/touhidcodes" target="_blank">
-  <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" />
-</a>
-
-<a href="https://stackoverflow.com/users/22104988" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="48" height="48" />
 </a>
 
 </p>
