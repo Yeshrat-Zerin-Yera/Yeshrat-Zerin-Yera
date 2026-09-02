@@ -1,16 +1,211 @@
-## Hi there 👋
+<!-- ======================= BANNER ======================= -->
 
-<!--
-**Yeshrat-Zerin-Yera/Yeshrat-Zerin-Yera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./banner/github_banner.png" alt="Hello World" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Touhidur Zaman</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Technical+Instructor+%40PH;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 👋 Hi, I'm **[@touhidcodes](https://github.com/touhidcodes)**
+- 🖥️ Currently working with **React.js, Next.js, TypeScript and Redux**
+- 🗄️ Backend technologies: **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL and Prisma**
+- 🛠️ Currently learning **React Native, GraphQL, Docker and AWS**
+- 💬 Ask me about **Full-Stack Development**
+- 🌐 Explore my [**Portfolio**](https://touhidcodes.vercel.app/)
+- 📄 Check out my [**Resume**](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)
+- 📝 I regularly write articles on [**LinkedIn**](https://linkedin.com/in/touhidur-zaman)
+- 📫 Email: **touhidcodes@gmail.com**
+
+---
+
+# 🌐 FOLLOW ME ON SOCIALS
+
+<p align="left">
+
+<a href="https://linkedin.com/in/touhidur-zaman" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+
+<a href="https://discord.gg/touhidcodes" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+</a>
+
+<a href="https://dev.to/touhidcodes" target="_blank">
+  <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" />
+</a>
+
+<a href="https://stackoverflow.com/users/22104988" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="48" height="48" />
+</a>
+
+</p>
+
+---
+
+# 🛠️ TECHNOLOGY STACK
+
+## Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python" />
+</p>
+
+## CSS Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" />
+</p>
+
+## JavaScript Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
+</p>
+
+## Database & ORM
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" />
+</p>
+
+## Deployment Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
+</p>
+
+## Design & Graphics
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+</p>
+
+## Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" />
+</p>
+
+---
+
+# 📊 GITHUB STATISTICS & ANALYSIS
+
+## 🐍 GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/touhidcodes/contribution-snake/output/grid.svg" alt="GitHub Contribution Snake" />
+</p>
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+# 🔥 REPOSITORY STATS & STREAK
+
+<p align="center">
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true"
+    alt="Repository Stats"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=touhidcodes"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+# 💬 RANDOM DEV QUOTE
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"
+    alt="Random Dev Quote"
+  />
+</p>
+
+---
+
+# 👀 PROFILE VIEWS
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=touhidcodes&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
+
+---
+
+# 📌 PINNED PROJECTS
+
+## 🚀 Resume-Craft
+
+**Resume Craft** is an advanced online resume builder created by Code Titans.
+
+🔗 [View Repository](https://github.com/touhidcodes/Resume-Craft)
+
+**Tech:** TypeScript
+
+---
+
+## 🏠 ApartSol Web App
+
+**ApartSol** is a modern platform designed to simplify buying, renting, and selling properties.
+
+🔗 [View Repository](https://github.com/touhidcodes/ApartSol-Web-App)
+
+**Tech:** TypeScript
+
+---
+
+## 🎁 Gift Shop Management Dashboard
+
+A comprehensive management system for handling inventory, sales, and sales history.
+
+🔗 [View Repository](https://github.com/touhidcodes/Level-2-Assignment-6-Gift-Shop-Management-Dashboard)
+
+**Tech:** TypeScript
+
+---
+
+## 🎵 Summer Music Camp
+
+A full-stack web application for learning musical instruments.
+
+🔗 [View Repository](https://github.com/touhidcodes/PH-7-Summer-Music-Camp-Client)
+
+**Tech:** JavaScript / MERN
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
+
+<p align="center">
+  <b>Let's build something amazing together 🚀</b>
+</p>
