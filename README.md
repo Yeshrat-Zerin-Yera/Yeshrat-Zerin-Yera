@@ -31,6 +31,30 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 
 ---
+# 🌐 FOLLOW ME ON SOCIALS
+
+<p align="left">
+
+<a href="https://linkedin.com/in/touhidur-zaman" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://discord.gg/touhidcodes" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://dev.to/touhidcodes" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-00F0FF?style=for-the-badge&logo=dev.to&logoColor=black" alt="Dev.to" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://stackoverflow.com/users/22104988" target="_blank">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-FF6D00?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+</a>
+
+</p>
 
 # 🌐 FOLLOW ME ON SOCIALS
 
