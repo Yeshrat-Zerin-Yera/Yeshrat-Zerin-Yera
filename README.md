@@ -4,7 +4,7 @@
   <img src="./banner/github_banner.png" alt="Hello World" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Touhidur Zaman</h1>
+<h1 align="center">Hello 👋, I'm Yeshrat Zerin Yera</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,12 +16,12 @@
 
 ## 👨‍💻 About Me
 
-- 👋 Hi, I'm **[@touhidcodes](https://github.com/touhidcodes)**
-- 🖥️ Currently working with **React.js, Next.js, TypeScript and Redux**
-- 🗄️ Backend technologies: **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL and Prisma**
-- 🛠️ Currently learning **React Native, GraphQL, Docker and AWS**
+- 👋 Hi, I'm **[@Yeshrat-Zerin-Yera](https://github.com/Yeshrat-Zerin-Yera)**
+- 🖥️ Currently working with **React.js, Next.js, TypeScript**
+- 🗄️ Backend technologies: **Node.js, Express.js, MongoDB, Mongoose**
+- 🛠️ Currently learning **React Native**
 - 💬 Ask me about **Full-Stack Development**
-- 🌐 Explore my [**Portfolio**](https://touhidcodes.vercel.app/)
+- //🌐 Explore my [**Portfolio**](https://touhidcodes.vercel.app/)
 - 📄 Check out my [**Resume**](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)
 - 📝 I regularly write articles on [**LinkedIn**](https://linkedin.com/in/touhidur-zaman)
 - 📫 Email: **touhidcodes@gmail.com**
