@@ -26,9 +26,6 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 📫 **Email:** [yeshratzerinyera@gmail.com](mailto:yeshratzerinyera@gmail.com)  
 💼 **LinkedIn:** [Yeshrat Zerin Yera](https://www.linkedin.com/in/yeshrat-zerin-yera-54b557258)
-<!-- - 🌐 Explore my [**Portfolio**](https://touhidcodes.vercel.app/) -->
-<!-- - 📄 Check out my [**Resume**](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO) -->
-
 
 ---
 
@@ -53,7 +50,7 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 ## Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,c,cpp&theme=light" />
 </p>
 
 ## CSS Frameworks & Libraries
@@ -83,7 +80,7 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 ## Design & Graphics
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ai" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ## Tools & Technologies
