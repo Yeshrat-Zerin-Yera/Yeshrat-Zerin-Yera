@@ -96,7 +96,7 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 ## 🐍 GitHub Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/touhidcodes/contribution-snake/output/grid.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Yeshrat-Zerin-Yera/contribution-snake/output/grid.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ## 📈 GitHub Statistics
