@@ -21,10 +21,10 @@
 - 🗄️ Backend technologies: **Node.js, Express.js, MongoDB, Mongoose**
 - 🛠️ Currently learning **React Native**
 - 💬 Ask me about **Full-Stack Development**
-- //🌐 Explore my [**Portfolio**](https://touhidcodes.vercel.app/)
-- 📄 Check out my [**Resume**](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)
-- 📝 I regularly write articles on [**LinkedIn**](https://linkedin.com/in/touhidur-zaman)
-- 📫 Email: **touhidcodes@gmail.com**
+<!-- - 🌐 Explore my [**Portfolio**](https://touhidcodes.vercel.app/) -->
+<!-- - 📄 Check out my [**Resume**](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO) -->
+- 📝 I regularly write articles on [**LinkedIn**](https://www.linkedin.com/in/yeshrat-zerin-yera-54b557258)
+- 📫 Email: **yeshratzerinyera@gmail.com**
 
 ---
 
