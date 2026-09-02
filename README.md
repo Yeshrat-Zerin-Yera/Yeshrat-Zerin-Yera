@@ -31,30 +31,6 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 
 ---
-# 🌐 FOLLOW ME ON SOCIALS
-
-<p align="left">
-
-<a href="https://linkedin.com/in/touhidur-zaman" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white&label=" alt="LinkedIn" width="55" height="55" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://discord.gg/touhidcodes" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white&label=" alt="Discord" width="55" height="55" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://dev.to/touhidcodes" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-00FF9C?style=for-the-badge&logo=devdotto&logoColor=black&label=" alt="Dev.to" width="55" height="55" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://stackoverflow.com/users/22104988" target="_blank">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FF6B00?style=for-the-badge&logo=stackoverflow&logoColor=white&label=" alt="Stack Overflow" width="55" height="55" />
-</a>
-
-</p>
 
 # 🌐 FOLLOW ME ON SOCIALS
 
