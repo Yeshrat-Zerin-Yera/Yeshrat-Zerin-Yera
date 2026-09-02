@@ -50,7 +50,7 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 ## Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,c,cpp&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,c,cpp&theme=dark" />
 </p>
 
 ## CSS Frameworks & Libraries
