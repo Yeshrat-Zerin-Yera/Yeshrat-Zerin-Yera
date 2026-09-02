@@ -53,7 +53,7 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 ## Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,c,cpp" />
 </p>
 
 ## CSS Frameworks & Libraries
@@ -65,13 +65,13 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 ## JavaScript Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
 </p>
 
 ## Database & ORM
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ## Deployment Platforms
@@ -83,13 +83,13 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 ## Design & Graphics
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=figma,ai" />
 </p>
 
 ## Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=windows,notion,git,github,vscode" />
 </p>
 
 ---
