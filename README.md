@@ -193,9 +193,7 @@ A full-stack web application for learning musical instruments.
 ---
 
 <p align="center">
-  <img src="YOUR_BLUE_LOGO_URL" width="18" alt="✦">
-  Thanks for stopping by my little corner of the internet
-  <img src="YOUR_BLUE_LOGO_URL" width="18" alt="✦">
+  <b>✦ Thanks for stopping by my little corner of the internet ✦</b>
 </p>
 
 <p align="center">
