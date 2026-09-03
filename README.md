@@ -36,7 +36,7 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 <a href="https://www.linkedin.com/in/yeshrat-zerin-yera-54b557258" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-&nbsp;
+
 <a href="https://discord.com/users/1011141058056437770" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 </a>
