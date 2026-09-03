@@ -131,7 +131,7 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 ## 💭 DAILY INSPIRATION
 
 <p align="center">
- <img src="assets/quotation.jpg" alt="Quote" width="250">
+ <img src="assets/quotation.jpg" alt="Quote" width="300">
 </p>
 
 ---
