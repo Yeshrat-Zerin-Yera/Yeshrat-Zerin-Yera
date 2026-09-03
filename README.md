@@ -103,12 +103,12 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false"
+    src="https://github-readme-stats.vercel.app/api?username=Yeshrat-Zerin-Yera&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
     alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshrat-Zerin-Yera&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
     alt="Top Languages"
   />
 </p>
