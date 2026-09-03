@@ -147,48 +147,6 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 ---
 
-# 📌 PINNED PROJECTS
-
-## 🚀 Resume-Craft
-
-**Resume Craft** is an advanced online resume builder created by Code Titans.
-
-🔗 [View Repository](https://github.com/touhidcodes/Resume-Craft)
-
-**Tech:** TypeScript
-
----
-
-## 🏠 ApartSol Web App
-
-**ApartSol** is a modern platform designed to simplify buying, renting, and selling properties.
-
-🔗 [View Repository](https://github.com/touhidcodes/ApartSol-Web-App)
-
-**Tech:** TypeScript
-
----
-
-## 🎁 Gift Shop Management Dashboard
-
-A comprehensive management system for handling inventory, sales, and sales history.
-
-🔗 [View Repository](https://github.com/touhidcodes/Level-2-Assignment-6-Gift-Shop-Management-Dashboard)
-
-**Tech:** TypeScript
-
----
-
-## 🎵 Summer Music Camp
-
-A full-stack web application for learning musical instruments.
-
-🔗 [View Repository](https://github.com/touhidcodes/PH-7-Summer-Music-Camp-Client)
-
-**Tech:** JavaScript / MERN
-
----
-
 <p align="center">
   <b>✦ Thanks for stopping by my little corner of the internet ✦</b>
 </p>
