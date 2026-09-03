@@ -129,7 +129,14 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
     alt="GitHub Streak"
   />
 </p>
+### 🔥 REPOSITORY STATS & STREAK
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Yeshrat-Zerin-Yera&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 ---
 
 ## 💭 DAILY INSPIRATION
