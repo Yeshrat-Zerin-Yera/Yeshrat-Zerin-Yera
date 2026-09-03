@@ -131,12 +131,7 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 ## 💭 DAILY INSPIRATION
 
 <p align="center">
- <img
-  src="assets/quotation.jpg"
-  alt="Quote"
-  width="500"
-  style="border-radius: 14px; box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);"
->
+ <img src="assets/quotation.jpg" alt="Quote" width="500">
 </p>
 
 ---
