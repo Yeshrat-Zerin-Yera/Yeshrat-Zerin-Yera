@@ -123,12 +123,12 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 <p align="center">
   <img
-    src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true"
+    src="https://github-contributor-stats.vercel.app/api?username=Yeshrat-Zerin-Yera&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"
     alt="Repository Stats"
   />
 
   <img
-    src="https://streak-stats.demolab.com/?user=touhidcodes"
+    src="https://streak-stats.demolab.com/?user=Yeshrat-Zerin-Yera&theme=dark&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
