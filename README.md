@@ -1,7 +1,7 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img src="./banner/github_banner.png" alt="Hello World" width="100%" />
+  <img src="assets/Banner.png" alt="Hello World" width="100%" />
 </p>
 
 <h1 align="center">🌸 Nice to Meet You, I'm Yeshrat Zerin Yera</h1>
