@@ -131,18 +131,15 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 ---
 
-# 💬 RANDOM DEV QUOTE
+# 💭 DAILY INSPIRATION
 
 <p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"
-    alt="Random Dev Quote"
-  />
+  <img src="./assets/quote.jpg" alt="Quote" width="900">
 </p>
 
 ---
 
-# 👀 PROFILE VIEWS
+# 👁️ PROFILE VISITS
 
 <p align="center">
   <img
@@ -196,7 +193,9 @@ A full-stack web application for learning musical instruments.
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+  <img src="YOUR_BLUE_LOGO_URL" width="18" alt="✦">
+  Thanks for stopping by my little corner of the internet
+  <img src="YOUR_BLUE_LOGO_URL" width="18" alt="✦">
 </p>
 
 <p align="center">
