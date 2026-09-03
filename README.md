@@ -146,9 +146,9 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=touhidcodes&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
+  src="https://komarev.com/ghpvc/?username=Yeshrat-Zerin-Yera&label=Profile%20Views&color=0e75b6&style=flat"
+  alt="Profile Views"
+/>
 </p>
 
 ---
