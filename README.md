@@ -4,7 +4,7 @@
   <img src="assets/Bannar.png" alt="Hello World" width="100%" height="80%" />
 </p>
 
-<h1 align="center">🌸 Nice to Meet You, I'm Yeshrat Zerin Yera</h1>
+<h1 align="center">💠 Nice to Meet You, I'm Yeshrat Zerin Yera</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
