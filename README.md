@@ -29,6 +29,16 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 ---
 
+## 💻 Currently
+
+- 🌱 Exploring Next.js and modern full-stack development
+- 🔨 Building projects with React, Tailwind CSS & Firebase
+- 📱 Learning React Native
+- 🧩 Improving my JavaScript & problem-solving skills
+- 🚀 Working on new projects to strengthen my full-stack skills
+
+---
+
 ## 🌐 FOLLOW ME ON SOCIALS
 
 <p align="left">
