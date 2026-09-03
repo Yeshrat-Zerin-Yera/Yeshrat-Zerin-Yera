@@ -29,7 +29,7 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 ---
 
-# 🌐 FOLLOW ME ON SOCIALS
+## 🌐 FOLLOW ME ON SOCIALS
 
 <p align="left">
 
@@ -45,45 +45,45 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 ---
 
-# 🛠️ TECHNOLOGY STACK
+## 🛠️ TECHNOLOGY STACK
 
-## Languages
+### Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,c,cpp&theme=dark" />
 </p>
 
-## CSS Frameworks & Libraries
+### CSS Frameworks & Libraries
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" />
 </p>
 
-## JavaScript Frameworks & Libraries
+### JavaScript Frameworks & Libraries
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
 </p>
 
-## Database & ORM
+### Database & ORM
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## Deployment Platforms
+### Deployment Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
 </p>
 
-## Design & Graphics
+### Design & Graphics
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-## Tools & Technologies
+### Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,notion,git,github,vscode" />
@@ -91,15 +91,15 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 ---
 
-# 📊 GITHUB STATISTICS & ANALYSIS
+## 📊 GITHUB STATISTICS & ANALYSIS
 
-## 🐍 GitHub Contributions
+### 🐍 GitHub Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yeshrat-Zerin-Yera/contribution-snake/output/grid.svg" alt="GitHub Contribution Snake" />
 </p>
 
-## 📈 GitHub Statistics
+### 📈 GitHub Statistics
 
 <p align="center">
   <img
@@ -115,7 +115,7 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 ---
 
-# 🔥 REPOSITORY STATS & STREAK
+### 🔥 REPOSITORY STATS & STREAK
 
 <p align="center">
   <img
@@ -131,7 +131,7 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 ---
 
-# 💭 DAILY INSPIRATION
+## 💭 DAILY INSPIRATION
 
 <p align="center">
   <img src="./assets/quote.jpg" alt="Quote" width="900">
@@ -139,7 +139,7 @@ I'm **[Yeshrat Zerin Yera](https://github.com/Yeshrat-Zerin-Yera)**, an aspiring
 
 ---
 
-# 👁️ PROFILE VISITS
+## 👁️ PROFILE VISITS
 
 <p align="center">
   <img
